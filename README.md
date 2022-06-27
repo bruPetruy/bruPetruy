@@ -1,4 +1,8 @@
-### Hi there 👋
+#Sobre mim
+- Ola, eu sou a Bruna;
+- estou interessada em cursos;
+- atualmente estou aprendendo SCRATCH e JAVASCRIPT;
+- estou disponivel para colaborar e ajudar meus amigos; 
 
 <!--
 **bruPetruy/bruPetruy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
